@@ -1,0 +1,15 @@
+movement:
+W - move up
+S - move down
+A - move left
+D - move right
+other:
+E - shoot blue portal
+Q - shoot green portal
+R - reset teleport cooldown
+C - clear portals
+debug:
+F1 - turn on debug overlay
+F2 - turn off debug overlay
+F3 - turn on no collision
+F4 - turn off no collision
