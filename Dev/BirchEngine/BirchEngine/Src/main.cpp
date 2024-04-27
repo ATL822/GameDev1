@@ -1,3 +1,6 @@
+// SDL2 Game Dev project - originally started by following youtube tutorial found here: https://youtube.com/playlist?list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx&si=Sw-YGMdn5LbwDTPo
+// Andrew Law - April 2024
+
 #include "Game.h"
 
 Game *game = nullptr;

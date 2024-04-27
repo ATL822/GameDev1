@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GitHub\\Personal\\GameDev1\\Dev\\BirchEngine\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|D:\\GitHub\\Personal\\GameDev1\\Dev\\BirchEngine\\BirchEngine\\Src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE353F93-BF7C-4368-BE55-A8C0FAF6E793}|BirchEngine\\BirchEngine.vcxproj|solutionrelative:BirchEngine\\Src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\GitHub\\Personal\\GameDev1\\Dev\\BirchEngine\\BirchEngine\\Src\\main.cpp",
+              "RelativeDocumentMoniker": "BirchEngine\\Src\\main.cpp",
+              "ToolTip": "D:\\GitHub\\Personal\\GameDev1\\Dev\\BirchEngine\\BirchEngine\\Src\\main.cpp",
+              "RelativeToolTip": "BirchEngine\\Src\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T21:55:26.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
